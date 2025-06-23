@@ -42,7 +42,7 @@ XINT is a web extension that lets you launch memecoins from **tweets**, **articl
 ```bash
 git clone [https://github.com/Xint-ai/XINT/issues]
 2. Install dependencies:
-cd nexr
+cd xint
 npm install
 3. Build the extension:
 npm run build
